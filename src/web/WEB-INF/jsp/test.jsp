@@ -8,7 +8,7 @@
 <%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
 <html>
   <head>
-    <title>Hello</title>
+    <title>Helloo</title>
   </head>
   <body>
   ${name},First Maven Web Project
