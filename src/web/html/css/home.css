@@ -1,0 +1,10 @@
+.top{
+    width: 100%;
+    height: 27px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    font-family: "Microsoft Yahei";
+    color: #999;
+    position: relative;
+    z-index: 1000;
+}
